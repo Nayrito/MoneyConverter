@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="convert">Convert</string>
+    <string name="value">Enter value</string>
+    <string name="euro_to_dollar">Euro to Dollar</string>
+    <string name="dollar_to_euro">Dollar to Euro</string>
+    <string name="cop_to_dollar">Cop to Dollar</string>
+    <string name="dollar_to_cop">Dollar to Cop</string>
+    <string name="cop_to_euro">Cop to Euro</string>
+    <string name="euro_to_cop">Euro to Cop</string>
+    <string name="start">  0.0</string>
+</resources>
